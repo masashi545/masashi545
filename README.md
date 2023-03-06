@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">I'm Masashi Oda!🏸</h1>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=masashi545&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masashi545&theme=vue-dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masashi545)](https://git.io/streak-stats)
 
 <!--
 **masashi545/masashi545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
