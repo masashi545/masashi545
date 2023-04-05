@@ -1,5 +1,3 @@
-<h1 align="center">I'm Masashi Oda!🏸</h1>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=masashi545&show_icons=true&title_color=000000&icon_color=006400)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masashi545&title_color=000000&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
