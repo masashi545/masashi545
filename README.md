@@ -3,8 +3,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=masashi545&show_icons=true&title_color=000000&icon_color=006400)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masashi545&title_color=000000&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masashi545&ring=006400&fire=006400&currStreakLabel=000000)](https://git.io/streak-stats)
-
 <!--
 **masashi545/masashi545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
